@@ -4,9 +4,8 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mojalalimanesh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmojalalimanesh&screen_name=mojalalimanesh)
 
 
-- 🔭 Currently working as a Data Analyst at Snapp
-- 👯 I’m looking to collaborate with other Data Analysts and Data Engineers
-
+- 🔭 Currently, Building with AI
+- Previously, Data Analytics and Biomedical Optics
 
 
 ### Connect with me:
