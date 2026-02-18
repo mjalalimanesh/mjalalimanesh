@@ -21,4 +21,4 @@
 [twitter]: https://twitter.com/mojalalimanesh
 
 
-[linkedin]: linkedin.com/in/mjalalimanesh
+[linkedin]: https://www.linkedin.com/in/mjalalimanesh/
